@@ -3162,8 +3162,8 @@
 
 	#banner {
 		background-attachment: scroll,							fixed;
-		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-color: 666;
+		background-image: url(""), url("../../images/mathew-schwartz-gN7Ax0kJ_rc-unsplash.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3896,3 +3896,20 @@
 			}
 
 	}
+
+#nav {
+	display:none;
+}
+ #banner h2, h2, p {
+	color:rgb(0, 0, 0);
+	
+ }
+
+ #banner p {
+	 font-weight: 500;
+ }
+
+ #banner h2 {
+	 margin-top: 10%;
+	 
+ }
